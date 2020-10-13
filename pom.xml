@@ -122,7 +122,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>        
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
@@ -154,7 +154,7 @@
 		    <groupId>org.bgee.log4jdbc-log4j2</groupId>
 		    <artifactId>log4jdbc-log4j2-jdbc4</artifactId>
 		    <version>1.16</version>
-		</dependency><dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>4.12</version><scope>compile</scope></dependency>
+		</dependency><dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>4.13.1</version><scope>compile</scope></dependency>
 
 	</dependencies>
     <build>
